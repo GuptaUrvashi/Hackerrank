@@ -8,6 +8,7 @@ A Node is defined as:
     }
 */
 
+/*Applied Tortoise and Hare Algorithm. Also known as Floyd's cycle-finding algorithm */
 boolean hasCycle(Node head) {
     if(head == null){
         return false;
