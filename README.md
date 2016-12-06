@@ -1,2 +1,2 @@
 # Hackerrank
-Cracking the Code Challenge
+Cracking the Coding Interview Challenge using JAVA 7
